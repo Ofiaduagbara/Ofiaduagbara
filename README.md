@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ofiaduagbara
-- 👀 I’m interested in App Development
+- 👋 Hi, I’m Agu Chukwuemeka Mathew 
+- 👀 I’m interested in Data Analysis 
 - 🌱 I’m currently a starter
-- 💞️ I’m looking to collaborate on App Development
+- 💞️ I’m looking to collaborate on anything that has to do with Data
 - 📫 How to reach me Gmail: chukwuemekaagu57@gmail.com  +2348135511057
 
 <!---
